@@ -1,0 +1,19 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca",
+        "org.apache.cordova.splashscreen",
+        "org.apache.cordova.statusbar",
+        "org.apache.cordova.inappbrowser",
+        "org.apache.cordova.device-orientation"
+    ],
+    "framework_version": "3.5",
+    "title-ja": "",
+    "title-en": "doclistz",
+    "description-ja": "",
+    "description-en": "doclistz",
+    "category": "User Template",
+    "platform": [
+        "android"
+    ],
+    "name": "generated-1410531793-540f2e7f7e21931a2fd38e37"
+}
