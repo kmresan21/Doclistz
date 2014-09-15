@@ -8,12 +8,15 @@
     ],
     "framework_version": "3.5",
     "title-ja": "",
-    "title-en": "doclistz",
+    "title-en": "Doclistz",
     "description-ja": "",
-    "description-en": "doclistz",
+    "description-en": "Doclistz",
     "category": "User Template",
     "platform": [
-        "android"
+        "android",
+        "ios",
+        "winrt",
+        "chrome"
     ],
-    "name": "generated-1410531793-540f2e7f7e21931a2fd38e37"
+    "name": "generated-1410789554-540f2e7f7e21931a2fd38e37"
 }
